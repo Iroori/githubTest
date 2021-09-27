@@ -4,6 +4,6 @@ public class Banana extends Snack{
 
 	@Override
 	public void open() {
-		System.out.println("바나나킥을뜯다.");
+		System.out.println("자갈치.");
 	}
 }
